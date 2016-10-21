@@ -1,0 +1,5 @@
+1. In C we name a variable based on the C++ keywords whereas in C++ we cannot.
+2. In C a function can be called before it is declared but not in C++.
+3. In C a constant variable need not to be initialized but in C++ it has to be initialized.
+4. In C a func() is equivalent to func(...) but in C++ it is equivalent to func().
+So, if we have a function as func(), and we call it as func(2), this will work in C nut not in C++.

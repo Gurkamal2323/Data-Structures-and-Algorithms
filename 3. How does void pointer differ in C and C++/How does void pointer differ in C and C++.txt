@@ -1,0 +1,5 @@
+Programming Idiom - A programming idiom is a means of expressing a recurring construct in one or more programming
+languages. Generally speaking, a programming idiom is an expression of a simple task, algorithm, or data structure that
+is not a built-in feature in the programming language being used, or, conversely, the use of an unusual or notable
+feature that is built into a programming language. The term can be used more broadly, however, to refer to complex
+lgorithms or programming design patterns.
