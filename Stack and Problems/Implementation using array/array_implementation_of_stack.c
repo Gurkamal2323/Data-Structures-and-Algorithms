@@ -26,7 +26,7 @@ void pop() //to remove element from stack
 	top--;
 }
 
-int elementAtTop() //to return top element of the stack
+int elementAtTop() //return top element of the stack
 {
 	return A[top];
 }
