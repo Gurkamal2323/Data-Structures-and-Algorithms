@@ -5,6 +5,7 @@ int movesTOH(int n, char source, char helper, char destination)
 {
 	if(n==0)
 	{
+		//no disks
 		return 0;
 	}
 	int moves=0;

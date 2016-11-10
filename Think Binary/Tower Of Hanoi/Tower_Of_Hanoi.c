@@ -5,6 +5,7 @@ void TOH(int n, char source, char helper, char destination)
 {
 	if(n==0)
 	{
+		//no disks
 		return;
 	}
 	TOH(n-1,source,helper,destination);
