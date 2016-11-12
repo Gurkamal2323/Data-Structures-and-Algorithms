@@ -18,11 +18,9 @@ void reverseString(char *str, int len)
 
 int main()
 {
-	char str[MAX];
+	char *str;
 	printf("Enter the word\n");
 	scanf("%s",str);
-	int i,len;
-	len=str.length();
 	reverseString(str,len);
 	return 0;
 }
